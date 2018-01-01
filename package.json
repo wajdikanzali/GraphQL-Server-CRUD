@@ -4,8 +4,7 @@
   "description": "Simple GraphQL Server",
   "main": "server.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node server.js"
+    "dev:server": "nodemon server.js"
   },
   "repository": {
     "type": "git",
