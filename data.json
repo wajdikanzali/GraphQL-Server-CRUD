@@ -1,22 +1,22 @@
 {
-    "customers": [
-      {
-        "id": "1",
-        "name": "John",
-        "email": "Jhon@gmail.com",
-        "age": 50
-      },
-      {
-        "id": "2",
-        "name": "Steve",
-        "email": "steve@gmail.com",
-        "age": 25
-      },
-      {
-        "id": "3",
-        "name": "Alex",
-        "email": "alex@gmail.com",
-        "age": 18
-      }
-    ]
-  }
+  "customers": [
+    {
+      "id": "1",
+      "name": "John",
+      "email": "Jhon@gmail.com",
+      "age": 50
+    },
+    {
+      "id": "2",
+      "name": "Steve",
+      "email": "steve@gmail.com",
+      "age": 24
+    },
+    {
+      "id": "3",
+      "name": "Alex",
+      "email": "alex@gmail.com",
+      "age": 18
+    }
+  ]
+}
